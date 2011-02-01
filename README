@@ -13,7 +13,7 @@ Global setup:
 
  Download and install Git
   git config --global user.name "Your Name"
-  git config --global user.email francois.parmentier@gmail.com
+  git config --global user.email firstname.lastname@gmail.com
         
 
 Next steps:
