@@ -6,8 +6,8 @@ This is my first experience with git.
 
 Until now, I used Mercurial (and bitbucket), because of two main reasons:
 
-- it is largely used by Python community
-- it is written in Python and thus portable (especially to Windows)
+1. it is largely used by Python community
+2. it is written in Python and thus portable (especially to Windows)
 
 But I develop on Ubuntu, so I can give git a try :)
 
@@ -15,7 +15,7 @@ But I develop on Ubuntu, so I can give git a try :)
 
 Here is what was at the home page of the repository:
 
-> Global setup:
+> ### Global setup:
 >
 > Download and install Git
 >
@@ -23,7 +23,7 @@ Here is what was at the home page of the repository:
     git config --global user.email firstname.lastname@gmail.com
 >        
 >
->Next steps:
+> ### Next steps:
 >
     mkdir testNodeJs
     cd testNodeJs
@@ -35,19 +35,19 @@ Here is what was at the home page of the repository:
     git push origin master
 >      
 >
->Existing Git Repo?
+> ### Existing Git Repo?
 >
     cd existing_git_repo
     git remote add origin git@github.com:parmentf/testNodeJs.git
     git push origin master
 >      
 >
->Importing a Subversion Repo?
+> ### Importing a Subversion Repo?
 >
 >  <https://github.com/parmentf/testNodeJs/imports/new>
 >      
 >
->When you're done:
+> ### When you're done:
 >
 >  <https://github.com/parmentf/testNodeJs>
 
