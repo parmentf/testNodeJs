@@ -60,3 +60,9 @@ Hmm...
 - git add (or git commit -a)
 - git commit
 - git push
+
+A good quick reference site on git: <http://gitref.org/>
+
+## HowToNode ##
+
+A good starting point seems to be <http://howtonode.org/object-graphs>
